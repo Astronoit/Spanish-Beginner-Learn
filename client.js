@@ -47,8 +47,8 @@ var server = function() {
             }
         } 
     };
-    xmlhttp.open("GET", "file:///X:/Dropbox/js/spanish/index.html:8080", true);
-    // xmlhttp.open("GET", "file:///X:/Dropbox/js/spanish/index.html", true);
+    xmlhttp.open("GET", "file:///X:/Github/js/spanish/index.html:8080", true);
+    // xmlhttp.open("GET", "file:///X:/Github/js/spanish/index.html", true);
     xmlhttp.send();
     // document.writeln('The object received is ' + obj);
 };
